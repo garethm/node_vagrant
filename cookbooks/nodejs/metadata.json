@@ -1,0 +1,48 @@
+{
+  "name": "nodejs",
+  "description": "Installs node.js from source",
+  "long_description": "",
+  "maintainer": "Gareth Marshall",
+  "maintainer_email": "garethm@acm.org",
+  "license": "Various",
+  "platforms": {
+    "centos": [
+
+    ],
+    "redhat": [
+
+    ],
+    "fedora": [
+
+    ],
+    "ubuntu": [
+
+    ],
+    "debian": [
+
+    ],
+    "arch": [
+
+    ]
+  },
+  "dependencies": {
+  },
+  "recommendations": {
+  },
+  "suggestions": {
+  },
+  "conflicting": {
+  },
+  "providing": {
+  },
+  "replacing": {
+  },
+  "attributes": {
+  },
+  "groupings": {
+  },
+  "recipes": {
+    "nodejs": "Installs node.js from source"
+  },
+  "version": "0.8.0"
+}
