@@ -2,8 +2,8 @@
 # Cookbook Name:: nodejs
 # Recipe:: default
 #
-nodejs_file = "node-v0.2.1.tar.gz"
-nodejs_dir = "node-v0.2.1"
+nodejs_file = "node-v0.2.3.tar.gz"
+nodejs_dir = "node-v0.2.3"
 nodejs_url = "http://nodejs.org/dist/#{nodejs_file}"
 nodejs_install_dir = "/data/nodejs"
 
